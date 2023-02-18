@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeres-engel&show_icons=true&locale=en&layout=compact" alt="zeres-engel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeres-engel&show_icons=true&locale=en" alt="zeres-engel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeres-engel&" alt="zeres-engel" /></p>
