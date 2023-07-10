@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeres-engel" alt="zeres-engel" /></a> </p>
 
-- 🔭 I’m currently studying at FPT University [Ielts Task Generator](https://github.com/sunny442k3/Ielts_task_generator)
+- 🔭 I’m currently studying at FPT University
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zeres-Engel](https://github.com/Zeres-Engel)
 
