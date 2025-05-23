@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">AI engineer at FPT software</h3>
+<h3 align="center">AI engineer at FPT Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeres-engel&label=Profile%20views&color=0e75b6&style=flat" alt="zeres-engel" /> </p>
 
