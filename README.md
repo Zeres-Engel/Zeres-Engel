@@ -18,7 +18,7 @@
   <a href="https://github.com/Zeres-Engel"><img src="https://img.shields.io/badge/GitHub-Zeres--Engel-181717?style=flat&logo=github"></a>
   <a href="https://www.linkedin.com/in/nguyễn-phước-thành"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://kaggle.com/zeresengel"><img src="https://img.shields.io/badge/Kaggle-zeresengel-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces"></a>
+  <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces Rating" /></a>
   <a href="https://oj.vnoi.info/user/AndrewNguyen"><img src="https://img.shields.io/badge/VNOJ-AndrewNguyen-FF6B35?style=flat&logo=codeforces&logoColor=white" alt="VNOJ"></a>
   <a href="https://www.researchgate.net/profile/Thanh-Nguyen-Phuoc-2?ev=prf_overview"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white"></a>
 </p>
@@ -49,12 +49,12 @@
 </a>
 
 #### Rating & Rank
-- **Profile:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces Rating" /></a>
-- **Max Rating:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.maxRating?handle=ZeresEngel" alt="Max Rating" /></a>
+- **Current Rating:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Rating&color=1F8ACB&logo=codeforces" alt="Rating" />
+- **Max Rating:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].maxRating&label=Max%20Rating&color=FF8C00&logo=codeforces" alt="Max Rating" />
+- **Rank:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rank&label=Rank&color=FFD700&logo=codeforces" alt="Rank" />
 
 #### Statistics
-- **Contests:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.contests?handle=ZeresEngel" alt="Contests" /></a>
-- **Problems Solved:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.problems?handle=ZeresEngel" alt="Problems Solved" /></a>
+- **Profile:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces Profile" /></a>
 
 ### 📈 Git Contributions
 <p align="center">
