@@ -18,7 +18,8 @@
   <a href="https://github.com/Zeres-Engel"><img src="https://img.shields.io/badge/GitHub-Zeres--Engel-181717?style=flat&logo=github"></a>
   <a href="https://www.linkedin.com/in/nguyễn-phước-thành"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://kaggle.com/zeresengel"><img src="https://img.shields.io/badge/Kaggle-zeresengel-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://img.shields.io/badge/Codeforces-ZeresEngel-1F8ACB?style=flat&logo=codeforces"></a>
+  <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces"></a>
+  <a href="https://oj.vnoi.info/user/AndrewNguyen"><img src="https://img.shields.io/badge/VNOJ-AndrewNguyen-FF6B35?style=flat&logo=codeforces&logoColor=white" alt="VNOJ"></a>
   <a href="https://www.researchgate.net/profile/Thanh-Nguyen-Phuoc-2?ev=prf_overview"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white"></a>
 </p>
 
@@ -48,13 +49,12 @@
 </a>
 
 #### Rating & Rank
-- **Current Rating:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Rating&color=1F8ACB&logo=codeforces" alt="Rating" />
-- **Max Rating:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].maxRating&label=Max%20Rating&color=FF8C00&logo=codeforces" alt="Max Rating" />
-- **Rank:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rank&label=Rank&color=FFD700&logo=codeforces" alt="Rank" />
+- **Profile:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces Rating" /></a>
+- **Max Rating:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.maxRating?handle=ZeresEngel" alt="Max Rating" /></a>
 
 #### Statistics
-- **Problems Solved:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.status%3Fhandle%3DZeresEngel&query=%24.result.length&label=Submissions&color=00CED1&logo=codeforces" alt="Submissions" />
-- **Profile:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://img.shields.io/badge/Codeforces-ZeresEngel-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" /></a>
+- **Contests:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.contests?handle=ZeresEngel" alt="Contests" /></a>
+- **Problems Solved:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.problems?handle=ZeresEngel" alt="Problems Solved" /></a>
 
 ### 📈 Git Contributions
 <p align="center">
@@ -77,7 +77,6 @@
 - 🎯 **VNOI Cup 2025** - Ranked Top 35 nationwide in Vietnam Olympiad in Informatics
 - 🥈 **FPT University Olympiad Selection Exam 2024** - 2nd/200+, selected for university's official competitive programming team
 - 🥇 **Constructor Cup (Constructor University, Germany)** - Ranked Top 29 worldwide and Top 1 in Vietnam
-- 🥉 **ResFes 2023** - Third Prize for developing an AI-powered tool supporting IELTS Writing improvement
 - 🏆 **Meta Hacker Cup - Human Track** - Ranked 927th out of 5,972 participants globally
 
 #### 📝 Research & Publications
@@ -124,6 +123,7 @@
 - GitHub: **[Zeres-Engel](https://github.com/Zeres-Engel)**
 - Research: **[ResearchGate — Thanh Nguyen Phuoc](https://www.researchgate.net/profile/Thanh-Nguyen-Phuoc-2?ev=prf_overview)**
 - Codeforces: **[ZeresEngel](https://codeforces.com/profile/ZeresEngel)**
+- VNOJ: **[AndrewNguyen](https://oj.vnoi.info/user/AndrewNguyen)**
 - LinkedIn: **[profile](https://www.linkedin.com/in/nguyễn-phước-thành)**
 
 ---
