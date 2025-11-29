@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="66%">
 
 ### 🏆 Codeforces Stats
 
@@ -56,13 +56,8 @@
 #### Statistics
 - **Profile:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Codeforces&logo=codeforces&logoColor=white&color=1F8ACB" alt="Codeforces Profile" /></a>
 
-### 📈 Git Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeres-Engel&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-</p>
-
 </td>
-<td width="50%">
+<td width="34%">
 
 ### 🏅 Achievements
 
@@ -85,6 +80,11 @@
 </td>
 </tr>
 </table>
+
+### 📈 Git Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeres-Engel&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+</p>
 
 ---
 
