@@ -1,15 +1,11 @@
 <!-- ===== Fancy header with animated icons ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%20I'm%20Andrew%20(Thanh)%20👋&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=220&section=header&text=Hi%20I'm%20Andrew%20(Thanh)%20👋&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=twinkling"/>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=700&lines=AI+Engineer+%C2%B7+3%2B+years;%F0%9F%8C%9D+Currently+at+Rizlum+Paris%2C+France;%F0%9F%9A%80+Working+on+Vision-Language+Models&bold=true" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zeres-Engel&label=Profile%20views&color=58A6FF&style=flat-square" alt="views" />
-</p>
 
 <!-- ===== France GIFs & Images ===== -->
 <div align="center">
@@ -58,7 +54,7 @@
 
 #### Statistics
 - **Problems Solved:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.status%3Fhandle%3DZeresEngel&query=%24.result.length&label=Submissions&color=00CED1&logo=codeforces" alt="Submissions" />
-- **Profile:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces Rating" /></a>
+- **Profile:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://img.shields.io/badge/Codeforces-ZeresEngel-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" /></a>
 
 ### 📈 Git Contributions
 <p align="center">
