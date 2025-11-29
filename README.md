@@ -30,7 +30,41 @@
 
 ---
 
-## Selected links
+## 📊 Stats & Achievements
+
+### 🏆 Codeforces Stats
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeresEngel&theme=default" alt="Codeforces Stats" />
+</p>
+
+<!-- Alternative Codeforces badges -->
+<p align="center">
+  <a href="https://codeforces.com/profile/ZeresEngel">
+    <img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces Rating" />
+  </a>
+</p>
+
+### 💻 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeres-Engel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Zeres-Engel&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeres-Engel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top Languages" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeres-Engel&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🔗 Selected links
 
 - GitHub: **[Zeres-Engel](https://github.com/Zeres-Engel)**
 - Research: **[ResearchGate — Thanh Nguyen Phuoc](https://www.researchgate.net/profile/Thanh-Nguyen-Phuoc-2?ev=prf_overview)**
@@ -39,7 +73,27 @@
 
 ---
 
-## France Gallery (free to use)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## 📸 France Gallery
+
+> 💡 **Tip:** You can add your own images to `assets/images/` folder and reference them here!
+> Example: `![Description](assets/images/your-image.jpg)`
+
+<!-- These show rotating, license-friendly photos from Unsplash -->
 
 <!-- These show rotating, license-friendly photos from Unsplash -->
 <p align="center">
@@ -58,6 +112,10 @@
 > Photos served via Unsplash (attribution appreciated but not required). See license note below.
 
 ---
+
+---
+
+## 📊 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zeres-Engel&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
