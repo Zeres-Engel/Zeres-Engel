@@ -17,11 +17,6 @@
   <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Eiffel Tower" width="400" height="300" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="France" width="400" height="300" />
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Paris City" width="400" height="300" />
-</div>
-
 <p align="center">
   <a href="mailto:ngpthanh15@gmail.com"><img src="https://img.shields.io/badge/Email-ngpthanh15%40gmail.com-informational?style=flat&logo=gmail"></a>
   <a href="https://github.com/Zeres-Engel"><img src="https://img.shields.io/badge/GitHub-Zeres--Engel-181717?style=flat&logo=github"></a>
@@ -46,35 +41,51 @@
 
 ## 📊 Stats & Achievements
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏆 Codeforces Stats
-<p align="center">
-  <a href="https://codeforces.com/profile/ZeresEngel">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeresEngel&theme=default" alt="Codeforces Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://codeforces.com/profile/ZeresEngel">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Codeforces%20Rating&color=1F8ACB&logo=codeforces" alt="Codeforces Rating" />
-  </a>
-</p>
 
-### 💻 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeres-Engel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-</p>
+<a href="https://codeforces.com/profile/ZeresEngel">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeresEngel&theme=default" alt="Codeforces Stats" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Zeres-Engel&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
+#### Rating & Rank
+- **Current Rating:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Rating&color=1F8ACB&logo=codeforces" alt="Rating" />
+- **Max Rating:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].maxRating&label=Max%20Rating&color=FF8C00&logo=codeforces" alt="Max Rating" />
+- **Rank:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rank&label=Rank&color=FFD700&logo=codeforces" alt="Rank" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeres-Engel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top Languages" />
-</p>
+#### Statistics
+- **Problems Solved:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.status%3Fhandle%3DZeresEngel&query=%24.result.length&label=Submissions&color=00CED1&logo=codeforces" alt="Submissions" />
+- **Contests:** <img src="https://img.shields.io/badge/Codeforces-ZeresEngel-1F8ACB?style=flat&logo=codeforces" alt="Codeforces" />
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeres-Engel&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-</p>
+</td>
+<td width="50%">
+
+### 🏅 Achievements
+
+#### Competition Medals
+- 🥉 **ICPC Regional** - Bronze Medal
+- 🥉 **ACM-ICPC** - Bronze Medal  
+- 🏆 **Codeforces** - Active Participant
+- 🎯 **Competitive Programming** - Regular Contestant
+
+#### Certifications & Awards
+- 📜 **FPT University** - Graduate
+- 🎓 **AI Engineering** - 3+ Years Experience
+- 🔬 **Research** - Published Works
+- 💼 **Industry** - Rizlum & FPT Software
+
+#### Skills Badges
+- 🐍 **Python** - Advanced
+- 🤖 **AI/ML** - Expert
+- 🖼️ **Computer Vision** - Specialist
+- ⚡ **Edge AI** - Practitioner
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -100,9 +111,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
-
-<!-- ===== Fancy footer ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
