@@ -38,30 +38,26 @@
 
 ## 📊 Stats & Achievements
 
-<table>
-<tr>
-<td width="66%">
-
 ### 🏆 Codeforces Stats
 
-<a href="https://codeforces.com/profile/ZeresEngel">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeresEngel&theme=default" alt="Codeforces Stats" />
-</a>
+<p align="center">
+  <a href="https://codeforces.com/profile/ZeresEngel">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeresEngel&theme=default" alt="Codeforces Stats" />
+  </a>
+</p>
 
-#### Rating & Rank
-- **Current Rating:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Rating&color=1F8ACB&logo=codeforces" alt="Rating" />
-- **Max Rating:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].maxRating&label=Max%20Rating&color=FF8C00&logo=codeforces" alt="Max Rating" />
-- **Rank:** <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rank&label=Rank&color=FFD700&logo=codeforces" alt="Rank" />
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Rating&color=1F8ACB&logo=codeforces" alt="Rating" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].maxRating&label=Max%20Rating&color=FF8C00&logo=codeforces" alt="Max Rating" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rank&label=Rank&color=FFD700&logo=codeforces" alt="Rank" />
+</p>
 
-#### Statistics
-- **Profile:** <a href="https://codeforces.com/profile/ZeresEngel"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Codeforces&logo=codeforces&logoColor=white&color=1F8ACB" alt="Codeforces Profile" /></a>
-
-</td>
-<td width="34%">
+---
 
 ### 🏅 Achievements
 
 #### 🥇 Major Competitions
+
 - 🥇 **Vietnam Olympic AI 2025** - Gold Medal, Top 4 (Southern Vietnam, Top 6 Vietnam)
 - 🥈 **ICPC Southern Vietnam Contest 2024** - Silver Medal
 - 🥉 **ICPC Vietnam National Contest 2024** - Bronze Medal
@@ -69,17 +65,15 @@
 - 🏅 **ICPC Asia Regional 2024** - Honorable Mention (Participated)
 
 #### 🏆 Other Competitions & Awards
+
 - 🎯 **VNOI Cup 2025** - Ranked Top 35 nationwide in Vietnam Olympiad in Informatics
 - 🥈 **FPT University Olympiad Selection Exam 2024** - 2nd/200+, selected for university's official competitive programming team
 - 🥇 **Constructor Cup (Constructor University, Germany)** - Ranked Top 29 worldwide and Top 1 in Vietnam
 - 🏆 **Meta Hacker Cup - Human Track** - Ranked 927th out of 5,972 participants globally
 
 #### 📝 Research & Publications
-- 📄 **ISDS 2023 Conference (Q4)** - First Author of a research paper on optimizing real-time sign language recognition with MediaPipe
 
-</td>
-</tr>
-</table>
+- 📄 **ISDS 2023 Conference (Q4)** - First Author of a research paper on optimizing real-time sign language recognition with MediaPipe
 
 ### 📈 Git Contributions
 <p align="center">
