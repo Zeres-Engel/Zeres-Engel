@@ -1,12 +1,26 @@
-<!-- ===== Fancy header (Capsule Render) ===== -->
+<!-- ===== Fancy header with animated icons ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi%20I'm%20Andrew%20(Thanh)%20👋&fontSize=32&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Andrew%20(Thanh)%20👋&fontSize=36&fontAlignY=35&animation=twinkling"/>
 </p>
 
-<!-- ===== Title ===== -->
-<h1 align="center">Andrew (Thanh) Nguyen</h1>
-<h3 align="center">AI Engineer · 3+ years · Paris, France</h3>
-<h4 align="center">Currently at Rizlum · Working on Vision-Language Models (VLMs)</h4>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%C2%B7+3%2B+years+%C2%B7+Paris%2C+France;%F0%9F%8C%9D+Currently+at+Rizlum;%F0%9F%9A%80+Working+on+Vision-Language+Models" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zeres-Engel&label=Profile%20views&color=58A6FF&style=flat-square" alt="views" />
+</p>
+
+<!-- ===== France GIFs & Images ===== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saQqX1iu7zy0/giphy.gif" alt="Paris" width="400" height="300" />
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Eiffel Tower" width="400" height="300" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="France" width="400" height="300" />
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Paris City" width="400" height="300" />
+</div>
 
 <p align="center">
   <a href="mailto:ngpthanh15@gmail.com"><img src="https://img.shields.io/badge/Email-ngpthanh15%40gmail.com-informational?style=flat&logo=gmail"></a>
@@ -34,13 +48,13 @@
 
 ### 🏆 Codeforces Stats
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeresEngel&theme=default" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/ZeresEngel">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeresEngel&theme=default" alt="Codeforces Stats" />
+  </a>
 </p>
-
-<!-- Alternative Codeforces badges -->
 <p align="center">
   <a href="https://codeforces.com/profile/ZeresEngel">
-    <img src="https://cf.leedev.cn/api/user.rating?handle=ZeresEngel" alt="Codeforces Rating" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DZeresEngel&query=%24.result[0].rating&label=Codeforces%20Rating&color=1F8ACB&logo=codeforces" alt="Codeforces Rating" />
   </a>
 </p>
 
@@ -59,7 +73,7 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeres-Engel&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeres-Engel&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
 ---
@@ -88,43 +102,7 @@
 
 ---
 
-## 📸 France Gallery
-
-> 💡 **Tip:** You can add your own images to `assets/images/` folder and reference them here!
-> Example: `![Description](assets/images/your-image.jpg)`
-
-<!-- These show rotating, license-friendly photos from Unsplash -->
-
-<!-- These show rotating, license-friendly photos from Unsplash -->
-<p align="center">
-  <img src="https://source.unsplash.com/featured/1200x600/?paris,eiffel-tower" alt="Eiffel Tower — Paris" />
-</p>
-<p align="center">
-  <img src="https://source.unsplash.com/featured/1200x600/?paris,louvre" alt="Louvre Pyramid — Paris" />
-</p>
-<p align="center">
-  <img src="https://source.unsplash.com/featured/1200x600/?paris,seine" alt="Seine River — Paris" />
-</p>
-<p align="center">
-  <img src="https://source.unsplash.com/featured/1200x600/?paris,montmartre" alt="Montmartre & Sacré-Cœur — Paris" />
-</p>
-
-> Photos served via Unsplash (attribution appreciated but not required). See license note below.
-
----
-
----
-
-## 📊 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zeres-Engel&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
 <!-- ===== Fancy footer ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-<!-- License note for gallery -->
-<sub>Image license: Unsplash photos are free to use, including commercially; credit is appreciated but not required.</sub>
