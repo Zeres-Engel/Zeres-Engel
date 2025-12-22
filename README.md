@@ -58,11 +58,11 @@
 
 #### 🥇 Major Competitions
 
-- 🥇 **Vietnam Olympic AI 2025** - Gold Medal, Top 4 (Southern Vietnam, Top 6 Vietnam)
+- 🥇 **Vietnam Olympic AI 2025 First Round** - Gold Medal (rank 4 Southern Vietnam, rank 6 Vietnam)
+- 🥇 **Vietnam Olympic AI 2025 Final Round** - Brozen Medal (rank 23 Vietnam)
 - 🥈 **ICPC Southern Vietnam Contest 2024** - Silver Medal
-- 🥉 **ICPC Vietnam National Contest 2024** - Bronze Medal
-- 🥉 **ICPC Southern Vietnam** - Bronze - Silver Medal
-- 🏅 **ICPC Asia Regional 2024** - Honorable Mention (Participated)
+- 🥉 **ICPC Vietnam National Contest 2024, 2025** - Honorable Mention
+- 🏅 **ICPC Asia Regional 2024, 2025** - Honorable Mention (rank 59 asia)
 
 #### 🏆 Other Competitions & Awards
 
